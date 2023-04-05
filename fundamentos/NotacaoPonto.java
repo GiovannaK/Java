@@ -13,6 +13,8 @@ public class NotacaoPonto {
 
         System.out.println(s);
 
+        System.out.println("Leo".toUpperCase());
+
         String x = "Leo".toUpperCase();
 
         System.out.println(x);
