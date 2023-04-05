@@ -20,6 +20,8 @@ public class TiposPrimitivos {
         // Tipo primitivo char
         char status = 'A'; // ativo
 
+        //test
+
         // Dias de empresa
         System.out.println(anosDeEmpresa * 365);
         // Número de viagens
