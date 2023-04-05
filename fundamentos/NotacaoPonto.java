@@ -25,7 +25,5 @@ public class NotacaoPonto {
         System.out.println(y);
 
         // Tipos primitivos não tem o operador "."
-
-        System.out.println("Leo".toUpperCase());
     }
 }
