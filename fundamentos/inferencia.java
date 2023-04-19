@@ -12,5 +12,6 @@ public class inferencia {
         System.out.println(c);
         c = "Another text";
         System.out.println(c);
+        // ha branch to merge first
     }
 }

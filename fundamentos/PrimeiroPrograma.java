@@ -3,5 +3,10 @@ package fundamentos;
 public class PrimeiroPrograma {
     public static void main(String[] args) {
         System.out.println("Primeiro programa!");
+        // othertest
     }
+
+    // Some test about squash 1
+
+    // Some test about squash 2
 }
